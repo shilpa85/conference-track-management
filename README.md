@@ -23,6 +23,8 @@ You are planning a big programming conference and have received many proposals w
  
 Note that depending on how you choose to complete this problem, your solution may give a different ordering or combination of talks into tracks. This is acceptable; you don’t need to exactly duplicate the sample output given here.
 
+
+
  
 Test input:
 
@@ -64,6 +66,9 @@ A World Without HackerNews 30min
 
 User Interface CSS in Rails Apps 30min
 
+
+
+
  
 Test output: 
 
@@ -92,6 +97,8 @@ Track 1:
 04:30PM User Interface CSS in Rails Apps 30min
 
 05:00PM Networking Event
+
+
 
  
 Track 2:
